@@ -4,11 +4,10 @@ import org.junit.AfterClass;
 import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
-<<<<<<< HEAD
+
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
-=======
->>>>>>> Escrita do teste para permitir vender todos os ingressos disponiveis
+
 
 import br.com.caelum.agiletickets.integration.driver.EstabelecimentosDriver;
 
